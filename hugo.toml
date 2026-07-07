@@ -2,7 +2,7 @@ baseURL = "https://example.org"
 languageCode = "fa-ir"
 # بهتره که به این شکل باشه : اسم مبحث + به سبک تِرِد 
 # مثلا : شبکه به سبک تِرِد
-title = "عنوان سایت"
+title = "جبر به سبک تِرِد"
 
 # ===========================================
 # تنظیمات کلی سایت
@@ -10,13 +10,13 @@ title = "عنوان سایت"
 
 [params]
 # توضیح کوتاه برای کل سایت بیشتر بدرد seo میخوره
-description = "توضیح کوتاه مثلا یادگیری شبکه با تِرد های کوتاه"
+description = "جبر با مثال های کامپیوتری به سبک تِرِد"
 threads_preview_count = 3
 threads_chap_count_per_page = 2
 
 [params.banner]
 # مثلا سیستم عامل یا شبکه
-subject = "اسم مبحث"
+subject = "جبر"
 
 # ===========================================
 # تنظیمات دارک مود
@@ -42,13 +42,13 @@ text = " مگه میشه مطلبی بدون لایسنس آخه؟ لایسنس 
 # ===========================================
 
 [params.author]
-name = "اسم نویسنده"
+name = "فاطیما"
 # بیوگرافی کوتاه نویسنده که زیر اسمش نمایش داده میشه
-bio = "دانشجوی علوم کامپیوتر و علاقمند به برنامه‌نویسی سطح پایین، در حال حاضر روی پروژه وبها کار می‌کنم"
+bio = "دانشجوی کامپیوتر علاقه مند به فهمیدن مفاهیم ریاضی و کامپیوتری"
 # آدرس عکس پروفایل نویسنده 
-avatar = "/assets/static-pic/avatar.png"
+avatar = "/assets/static-pic/avatar.jpg"
 # لینک صفحه دونیت یا حمایت مالی
-donate_url = "#"
+donate_url = "https://daramet.com/fatimanotron"
 
 # ===========================================
 # لینک‌های شبکه‌های اجتماعی نویسنده (اختیاری)
@@ -58,11 +58,11 @@ donate_url = "#"
 [params.author.social]
 # لیست لینک‌های شبکه‌های اجتماعی
 # هر آیتم شامل name و url هست
-# مثال: {name = "github", url = "https://github.com/user"}
+# مثال: {name = "github", url = "https://github.com/fatimanotron"}
 
 social_links = [
-  {name = "گیت هابم", url = "https://github.com/user"},
-  {name = "تلگرام", url = "#"},
+  {name = "گیت هابم", url = "https://github.com/fatimanotron"},
+  {name = "تلگرام", url = "https://t.me/fatimaneutron"},
 ]
 
 # ===========================================
