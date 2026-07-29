@@ -63,6 +63,8 @@ donate_url = "https://daramet.com/fatimanotron"
 social_links = [
   {name = "گیت هابم", url = "https://github.com/fatimanotron"},
   {name = "تلگرام", url = "https://t.me/fatimaneutron"},
+   {name = "لینکدین", url = "https://www.linkedin.com/in/fatima-baghandeh/"},
+
 ]
 
 # ===========================================
